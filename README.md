@@ -1,2 +1,1 @@
-#Curso Udemy
-Esse repositorio é para projetos desenvlvidos no período do curso de Python 3
+Este repositório contém códigos e projetos desenvolvidos durante o curso Python 3, ministrado pelo professor Nélio Alves na plataforma Udemy.
